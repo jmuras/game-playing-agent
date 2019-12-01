@@ -1,0 +1,7 @@
+INFO:root:Search Configuration:
+Opponent: MINIMAX
+Rounds: 5
+Fair Matches: False
+Time Limit: 150
+Processes: 1
+Debug Mode: False
